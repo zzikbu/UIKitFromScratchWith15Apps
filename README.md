@@ -11,3 +11,4 @@
 |05 - UpDownGame|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-02 at 18 54 29](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/c56eb5d0-a1d1-47ac-aa62-ca6a52fb31b1)|업다운 빙고게임 앱|
 |06 - FirstNewApp|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-02 at 19 00 13](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/8becaf60-4793-4bcc-b958-b4b4a6b8ec43)|슬라이더를 활용한 타이머 앱|
 |07 - TextFieldProject|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-03 at 03 05 19](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/4424dab9-de7c-4b79-be55-839ac5450b26)|텍스트필드와 델리게이트 패턴 이해하기|
+|08 - LoginProject|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-04 at 15 28 45](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/d6a8df72-7e5d-4b7a-b15d-a9dea8451dce)|코드로만 로그인 화면 만들기|
