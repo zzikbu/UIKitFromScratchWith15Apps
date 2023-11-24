@@ -16,3 +16,5 @@
 |10 - BMI|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-04 at 21 55 25](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/23477ab3-6c90-4efe-a6b6-6d63ec04fd44)|BMI 계산기|
 |11 - Nav&Tab|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-24 at 02 26 37](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/989b0db2-5f22-4858-95c1-879dabf5929f)|네비게이션 바 & 탭바 이해하기|
 |12 - Nav&TabCodebase|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-24 at 03 16 47](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/1ef322cf-0644-4857-a23d-07a5f36b339e)|네비게이션 바 & 탭바 with Codebase|
+|13 - TableView|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-25 at 00 42 35](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/ad9dba13-6a34-46b9-9f89-0aea8ba09ae7)|테이블뷰 + 네이게이션 바 + 델리게이트 + 데이터 전달|
+|14 - TableViewCodebase|![Simulator Screen Recording - iPhone 15 Pro - 2023-11-25 at 02 09 49](https://github.com/zzikbu/UIKitFromScratchWith15Apps/assets/147085742/6eb48af7-44b1-4160-8a72-54e73b9739e0)|테이블뷰 + 네이게이션 바 + 델리게이트 + 데이터 전달 with Codebase|
